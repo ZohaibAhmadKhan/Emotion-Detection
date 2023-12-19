@@ -3,7 +3,7 @@ This repository contains computer code and dataset information for our manuscrip
 The datasets used in this study were sourced from two primary repositories. The details are as below:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #1 EMOTHAW Dataset: 
-The "EMOTHAW" dataset was obtained from [10] as referred in the manuscript, the dataset is aavailable at (https://www.psicologia.unicampania.it/the-lab/our-activities),
+The "EMOTHAW" dataset was obtained from [10] as referred in the manuscript, the dataset is available at (https://www.psicologia.unicampania.it/the-lab/our-activities),
 the pdf of the study can be accessed at (https://arxiv.org/pdf/2202.12245.pdf). Which is the orignal work of: 
 
 1- Laurence Likforman-Sulem, affiliated with LTCI, CNRS, T´el´ecom ParisTech, Universit´e Paris-Saclay, Paris, France.
